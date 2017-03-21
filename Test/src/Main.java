@@ -9,8 +9,7 @@ public class Main {
 	
 	static int rounders(int value) {
 		StringBuilder s = new StringBuilder("");
-		s.
-		
+		System.out.println("asdasd");
 		return value;
 	}
 
